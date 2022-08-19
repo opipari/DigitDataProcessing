@@ -16,3 +16,9 @@ pip install -e .
 
 
 
+## Usage
+```bash
+python digitprocessing/convert_rosbag2json.py
+python digitprocessing/align_log2imgs.py
+python digitprocessing/downsample_log.py
+```
